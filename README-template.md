@@ -24,7 +24,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-product-preview-card)
-- Live Site URL: [Netlify live site url](https://phenomenal-fox-e15a7d.netlify.app/)
+- Live Site URL: [Netlify live site url](https://gregarious-brigadeiros-eb6a6a.netlify.app/)
 
 ## My process
 
